@@ -56,7 +56,7 @@ img_class = ['analogue',
              'mac',
              '2in1',
              'loafers',
-             'sneakers',git st
+             'sneakers',
              'sports']
 
 def preprocess_img(image):
